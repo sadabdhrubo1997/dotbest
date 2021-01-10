@@ -9,6 +9,7 @@
         right: 0;
         z-index: 999999999;
         background-color: rgb(255, 255, 255);
+        box-shadow: 0 20px 50px rgba(0, 0, 0, 0.048);
 
         .wrapper {
             width: 100%;
@@ -130,6 +131,7 @@
             a {
                 color: #ffffff;
                 font-size: 2rem;
+                font-weight: 500;
                 text-decoration: none;
                 border: .2rem solid #ffffff;
                 padding: 1.5rem 3rem;

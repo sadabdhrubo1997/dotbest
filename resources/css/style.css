@@ -28,6 +28,8 @@ html {
   right: 0;
   z-index: 999999999;
   background-color: white;
+  -webkit-box-shadow: 0 20px 50px rgba(0, 0, 0, 0.048);
+          box-shadow: 0 20px 50px rgba(0, 0, 0, 0.048);
 }
 
 #homepage #navbar .wrapper {
@@ -171,6 +173,7 @@ html {
 #homepage #header_area .giveAtry a {
   color: #ffffff;
   font-size: 2rem;
+  font-weight: 500;
   text-decoration: none;
   border: .2rem solid #ffffff;
   padding: 1.5rem 3rem;
